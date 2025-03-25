@@ -1,22 +1,30 @@
-# Spotify-Data-Analysis
-# Top 50 Spotify songs - 2019🎶🎧
+# Spotify Data Analysis
+## Top 50 Spotify Songs - 2019 🎶🎧
 
-Dataset collected from Kaggle
+This project involves analyzing a dataset of the top 50 Spotify songs from 2019, sourced from Kaggle.
 
-## Our task is to analyze the records available in dataset, visulize the data with the help of Python programming language.
+## Project Overview
 
-- In this data analysis task, first of all I converted all column names into lower case.
-- Calculated numebr of songs of each genre and artist.
-- Dealing with Null values in the dataset.
-- Visulization is very important part, here I visualized data by matplotlub and seaborn.
-- Applied Machine Learning Algorithms.
-- Build machine learning model which predicts **Popularity** of song(s).
-- Comparing Actual and Predicted popularity.
-- Visualize the result again for better understanding.
+Our goal is to explore and visualize the data using Python. Here are the main steps we followed:
 
-## There are lots of possible techniques to build a suitable machine learning model which can predict Popularity of song.
+1. **Data Preparation**:
+   - Converted all column names to lowercase for consistency.
+   - Counted the number of songs for each genre and artist.
+   - Handled any missing values in the dataset.
 
-Corrections and sugesstions are welcome.
+2. **Data Visualization**:
+   - Used Matplotlib and Seaborn to create visual representations of the data.
 
+3. **Machine Learning**:
+   - Applied various machine learning algorithms.
+   - Built a model to predict the **popularity** of songs.
+   - Compared the actual popularity with the predicted values.
+   - Visualized the results for better understanding.
 
-Listening songs/podcasts on Spotify while coding helps me a lot to refresh my mood ;) What about you?
+## Future Work
+
+There are numerous techniques to develop an effective machine learning model for predicting song popularity. We welcome any corrections and suggestions to improve this project.
+
+---
+
+Listening to songs or podcasts on Spotify while coding helps me stay refreshed. How about you?
